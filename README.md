@@ -7,7 +7,7 @@ Funding proposal to the Mozilla Science Lab Mini Grant for a 2-3 day workshop.
 
 ## In one sentence, summarize the purpose of the grant
 
-We will host a 2-3 day hands-on workshop to teach participants how to publish
+I will host a 2-3 day hands-on workshop to teach participants how to publish
 their source code online, choose an open-source license, receive credit for
 their code contribution, and collaborate effectively using version control
 (git) and websites like Github, figshare, and Zenodo.
@@ -15,43 +15,52 @@ their code contribution, and collaborate effectively using version control
 
 ## Project Description (2500 char)
 
-Scientist are often required to write code when conducting research or
-preparing educational material.
+The workshop will teach the basics of publishing research code and
+collaborating on a software project.
+It will cover some of the best practices in scientific computing,
+namely version control with git and Github,
+open-source licenses,
+software citation,
+and archival in DOI issuing websites (figshare and Zenodo).
 
-When publishing the paper, the code sits in their harddrive.
+Each day of the workshop will start with a small presentation followed by a
+live demonstration and 1-2 group exercises.
+The rest of the time will be dedicated to work on code that the participants
+wish to publish from one of their own projects.
+Those who are unable to do this will collaborate on a colleague's
+project.
+To train collaboration, all participants will be required to submit at least
+one pull request to another participant's repository.
+On the last day, the participants will give 5 minute presentations on what they
+have accomplished.
 
-It took a lot of time and effort to develop the code.
+The workshop will be taught at the University of Hawaii at Manoa and will be
+targeted at Earth Science graduate students, postdocs, and faculty.
+Depending on the popularity of the workshop, I may be able to expand the
+offering to whole campus.
+I will use the grant to fund marketing (flyers and stickers), the coffee
+breaks, food for a socializing event during the presentations on the last day,
+and a venue (if possible).
 
-Many students  and researchers end up rewriting the same code.
+By the end of the workshop, each participant will have published their code on
+a Github repository.
+It will contain a README, an open-source license, a
+Makefile that automates building the software and generating sample results,
+and citation information.
+Ideally, the repository will also be archived on figshare or Zenodo.
+I will develop exercises and presentations for the workshop but will
+reuse Software Carpentry material when appropriate.
+All of the material created for the workshop will be freely available online
+under a CC-BY license.
+I will also write blog posts detailing the planning and execution of the
+workshop as well as the feedback received.
 
-Often times repeating the same mistakes.
-
-Many scientists want to publish their code.
-
-Common complaints: code is ugly, it's too much work, they don't know how.
-
-They are often not trained to do this.
-
-Version control and github can be very intimidating if starting out from
-nothing.
-
-Licensing is confusing and often thought of as unnecessary.
-
-DOIs and what to include in your submission is also not clear.
-
-This workshop will offer a crash course into the current ways of doing these
-things.
-
-
-By the end of the course, participants will have their research code in a
-Github repository (including an open-source license and a README file) and be
-ready to publish the code by uploading to figshare or Zenodo.  They will also
-have collaborated on each other's repositories by submitting at least one pull
-request.
-
-The course will be hands-on. I will provide a short introductions to the tools
-that will be covered followed by guided examples. The majority of the time will
-be spent working on real research code that the participants produced.
+We expect that participants will leave with the minimum knowledge required to
+publish the code for their next project.
+They will also be equipped with some of the skills necessary to make
+contributions to the open-source software on which they rely.
+We hope that new collaborations will emerge through the emphasis on group
+exercises, collaboration, and the socializing event.
 
 
 ## License
