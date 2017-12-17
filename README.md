@@ -15,7 +15,7 @@ and websites like Github, figshare, and Zenodo.
 
 ## Project Description
 
-The workshop will teach the basics of publishing research code and
+The workshop will teach the basics of publishing research code online and
 collaborating on a software project.
 It will cover some of the best practices in scientific computing,
 namely version control with git and Github,
