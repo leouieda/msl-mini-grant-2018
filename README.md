@@ -2,7 +2,9 @@
 
 by [Leonardo Uieda](http://www.leouieda.com)
 
-Funding proposal to the Mozilla Science Lab Mini Grant for a 2-3 day workshop.
+Letter of Intent for the Mozilla Science Lab Mini Grant.
+
+**Update**: The proposal wasn't selected for the next phase (writing a full proposal). Better luck next time.
 
 
 ## In one sentence, summarize the purpose of the grant
